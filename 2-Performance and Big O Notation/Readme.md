@@ -1,4 +1,4 @@
-Efficiency
+# Efficiency
 - Time
 - Space
 
@@ -112,7 +112,7 @@ Searching a list --> O(N)
 
 # ITERATORS  
 
-** How Iterators Work** 
+**How Iterators Work**  
 Every collection type has an iterator object on it's own. So, user only interacts
 with the iterator object of the collection that is been used. User do not have to
 know the implementation of iterating through the collection.Just talk to the
